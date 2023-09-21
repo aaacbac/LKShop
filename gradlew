@@ -11,6 +11,9 @@ DEFAULT_JVM_OPTS=""
 include ':app', ':library', ':PushSDK', ':umeng_sharelibrary'
 include ':app', ':library', ':PushSDK', ':umeng_sharelibrary'include ':app', ':library', ':PushSDK', ':umeng_sharelibrary'include ':app', ':library', ':PushSDK', ':umeng_sharelibrary'
 include ':app', ':library', ':PushSDK', ':umeng_sharelibrary'
+include ':app', ':library', ':PushSDK', ':umeng_sharelibrary'
+include ':app', ':library', ':PushSDK', ':umeng_sharelibrary'
+include ':app', ':library', ':PushSDK', ':umeng_sharelibrary'
 APP_NAME="Gradle"
 APP_BASE_NAME=`basename "$0"`
 
